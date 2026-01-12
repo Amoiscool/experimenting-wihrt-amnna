@@ -1,0 +1,10 @@
+.fname-field {
+    color: blue';
+
+}
+
+.fname-field focus {
+outline: 3px blue solid;
+outlien-offest: 11px;
+
+}
